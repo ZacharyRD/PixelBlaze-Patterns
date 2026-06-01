@@ -23,3 +23,12 @@ copy the `pixelblaze-pattern-coder/` folder into your skills directory.
 
 Open a `.epe` file's code in the PixelBlaze editor, or paste a `.js` pattern source
 directly. Patterns that need a pixel map include map code for the Mapper tab.
+
+## License
+
+Copyright (C) 2026 Zachary Reiss-Davis
+
+Licensed under the GNU General Public License v3.0 or later (GPL-3.0-or-later).
+You may use, modify, and distribute this project — including commercially — but any
+distributed derivative must remain open-source under the same license and preserve
+this attribution. See [LICENSE](LICENSE) for the full text.
