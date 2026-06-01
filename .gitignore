@@ -8,3 +8,6 @@ __pycache__/
 # Editor
 .vscode/
 .idea/
+
+# Local Cowork project instructions (not for the repo)
+CLAUDE.md
